@@ -27,7 +27,7 @@ text, path finding, giving command and wake command in few modules
 of user-defined functions
 
 LIBRARIES USED:-
-Speech_recognition
+1. Speech_recognition
 2. pyttsx3
 3. Wikipedia
 4. tkinter
